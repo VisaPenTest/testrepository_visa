@@ -1,0 +1,9 @@
+{
+    "nsUserConfig": {
+        "enablePerUserConfig": "true",
+        "configLocation": "",
+        "token": "c2kMTAknqMUC1A9hps4r",
+        "host": "addon-visa-test.goskope.com",
+        "autoupdate": "true"
+    }
+}
